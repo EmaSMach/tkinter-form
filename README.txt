@@ -7,3 +7,5 @@ It uses sqlalchemy to interact with the database.
 I wrote this as an excercise for me, because it's fun and I like programming.
 
 If you like you can suggest any improvments. Thanks.
+
+Edit: Write "python controller.py" to run the program.
