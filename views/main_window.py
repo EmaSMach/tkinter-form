@@ -6,7 +6,7 @@ from tkinter.messagebox import showinfo, showerror
 class MainWindow(Frame):
     def __init__(self, controller=None, *args, **kwargs):
         super().__init__(*args, **kwargs)
-        self.parent.title("Guardar Datos")
+        self.master.title("Ingresar Datos")
         self.controller = controller
         self.make_widgets()
 
